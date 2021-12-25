@@ -1,4 +1,4 @@
-# CSSLoadingPageAnimation
+Loading Page Animation
  loading page Animation made on css 
  
  # Picture of how it looks 
